@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #000;
+  color: #fff;
+}
+canvas {
+  border: 2px solid #ff00ff;
+}
+#prompt {
+  font-size: 24px;
+  margin: 20px;
+  color: #00ffff;
+}
+#points {
+  font-size: 18px;
+  color: #ff00ff;
+}
+#pet {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 100px;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  background: #ff00ff;
+  color: #000;
+  border: none;
+}
