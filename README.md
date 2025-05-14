@@ -2,7 +2,7 @@
 An AI-powered web app to create viral social media trends using Teachable Machine. Perform micro-actions (poses, sounds, doodles), generate shareable video clips, and compete with friends on leaderboards!
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/yourusername/TrendTamer`
+1. Clone the repo: `git clone https://github.com/Uni-coder-harsh/TrendTamer`
 2. Train a pose model in [Teachable Machine](https://teachablemachine.withgoogle.com/) for "Superhero" pose.
 3. Export model to `models/pose_model/`.
 4. Add assets (pet images, win.mp3) to `assets/`.
